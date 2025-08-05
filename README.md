@@ -100,19 +100,6 @@ Play again? (y/n)
 
 ---
 
-## ✅ To-Do / Improvements (Optional)
-
-* 🧠 Improve bot with Minimax algorithm for unbeatable AI  
-* 💻 Create a GUI version using JavaFX or Swing  
-* 🌐 Build an online multiplayer version  
-
----
-
-## 📜 License
-
-This project is open-source and free to use for educational or personal use.
----
-
 ## 👨‍💻 Author
 
 **Aavishkar Chaudhari**  
