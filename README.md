@@ -1,26 +1,16 @@
 # 🎮 Java Tic Tac Toe Game
 
-Welcome to **Tic Tac Toe**, a console-based Java game where you can either play locally with a friend or challenge a basic AI bot. This game is built using core Java concepts like arrays, loops, input handling, and basic AI logic.
+Welcome to **Tic Tac Toe**, a console-based Java game where you can either play locally with a friend or challenge a basic bot. This game is built using core Java concepts like arrays, loops, input handling, and basic logic.
 
 ---
 
 ## 🧠 Features
 
 * 🧍‍♂️ **Two-Player Mode** – Play locally with another player  
-* 🤖 **Single-Player Mode (vs Bot)** – Challenge a basic AI opponent  
+* 🤖 **Single-Player Mode (vs Bot)** – Challenge a basic opponent  
 * 🎨 **Colored Output** – Red for `X`, Blue for `O` using ANSI escape codes  
 * 🔒 **Input Validation** – Ensures valid input and prevents moves in occupied cells  
-* 🔁 **Replay Option** – Play as many rounds as you like  
-* 🧼 **Modular Codebase** – Clear and well-structured logic  
-
----
-
-## 🧪 Technologies Used
-
-* **Java SE (Standard Edition)**  
-* **Scanner Class** – For user input  
-* **2D Arrays** – For representing the board  
-* **ANSI Color Codes** – To display colored `X` and `O` in the console  
+* 🔁 **Replay Option** – Play as many rounds as you like 
 
 ---
 
@@ -73,14 +63,6 @@ The bot uses a basic strategy:
 
 ---
 
-## 📂 Project Structure
-
-```
-TicTacToe.java  // Main game logic and entry point
-```
-
----
-
 ## 📸 Sample Output
 
 ```
@@ -88,11 +70,11 @@ Welcome to Tic Tac Toe!
 Player 1 is X and Player 2 is O.
 Enter a number from 1 to 9 to place your mark...
 
-X | O | 3
+X | O | 
 --+---+--
-4 | X | 6
+  | X | 
 --+---+--
-O | 8 | X
+O |   | X
 
 Player X has won the game!
 Play again? (y/n)
@@ -104,4 +86,4 @@ Play again? (y/n)
 
 **Aavishkar Chaudhari**  
 Aspiring Software Engineer | Passionate about Java and Problem Solving  
-🔗 [GitHub](https://github.com/Aavishkar7777)
+🔗 [GitHub](https://github.com/aavishkarchaudhari)
